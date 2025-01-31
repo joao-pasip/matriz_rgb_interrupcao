@@ -1,4 +1,4 @@
 build
-./images
-./output
+images
+output
 README.md
