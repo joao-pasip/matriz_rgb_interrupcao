@@ -55,6 +55,10 @@ Este projeto utiliza um Raspberry Pi Pico para controlar uma matriz de LEDs WS28
 
 [João Paulo Silva Piauhy](https://www.linkedin.com/in/joaopasip/)
 
+## Exibição do Projeto
+
+[Vídeo - YouTube](https://youtu.be/-q08BO2ZwW0)
+
 ## Licença
 
 Este projeto foi desenvolvido como atividade da Residência em Sistemas Embarcados - Embarca Tech.
